@@ -2,8 +2,8 @@
 
 An AI-powered graph system that unifies SAP O2C data (orders, deliveries, billing, payments) into an interactive graph with a natural language query interface.
 
-**Live Demo**: [your-deployment-url]  
-**Repository**: [your-github-url]
+**Live Demo**: https://dodge-ai-task.vercel.app
+**Repository**: https://github.com/rakshith702/DodgeAI-task
 
 ---
 
